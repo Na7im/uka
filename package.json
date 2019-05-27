@@ -1,0 +1,15 @@
+{
+  "name": "uka",
+  "version": "0.0.1",
+  "description": "je ne sais pas quoi dire",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "! \"Nazim#4804",
+  "license": "ISC"
+}
